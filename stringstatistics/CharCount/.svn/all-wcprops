@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/53/trunk/stringstatistics/CharCount
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/51/trunk/stringstatistics/CharCount/main.cpp
+END
+strstats.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/51/trunk/stringstatistics/CharCount/strstats.pro
+END
+StatisticMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/51/trunk/stringstatistics/CharCount/StatisticMap.cpp
+END
+iso2ascii.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/51/trunk/stringstatistics/CharCount/iso2ascii.cpp
+END
+ProjetoDeAlgoritmos_resource.rc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/51/trunk/stringstatistics/CharCount/ProjetoDeAlgoritmos_resource.rc
+END
+build_unix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/51/trunk/stringstatistics/CharCount/build_unix.sh
+END
+StatisticMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/51/trunk/stringstatistics/CharCount/StatisticMap.h
+END
+iso2ascii.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/51/trunk/stringstatistics/CharCount/iso2ascii.h
+END
+moc_MainWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/51/trunk/stringstatistics/CharCount/moc_MainWindow.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/51/trunk/stringstatistics/CharCount/README
+END
+MainWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/53/trunk/stringstatistics/CharCount/MainWindow.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/53/trunk/stringstatistics/CharCount/Makefile
+END
+.dep.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/51/trunk/stringstatistics/CharCount/.dep.inc
+END
+MainWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/51/trunk/stringstatistics/CharCount/MainWindow.h
+END

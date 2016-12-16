@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/17/trunk/stringstatistics/strstat1
+END
+main.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/17/trunk/stringstatistics/strstat1/main.txt
+END
+stringstat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/17/trunk/stringstatistics/strstat1/stringstat.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/17/trunk/stringstatistics/strstat1/main.cpp
+END
+stringstat.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/stringstatistics/strstat1/stringstat.h
+END
+main.odt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/17/trunk/stringstatistics/strstat1/main.odt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/17/trunk/stringstatistics/strstat1/Makefile
+END
+.dep.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/17/trunk/stringstatistics/strstat1/.dep.inc
+END
+data.dat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/17/trunk/stringstatistics/strstat1/data.dat
+END

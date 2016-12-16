@@ -1,0 +1,33 @@
+
+ File:  README file for the end-user
+
+ Group: Isabela Apolinário
+        Raquel Azeredo
+        Filipe Barretto
+        David Britto
+        Marcelle Campos
+        Luiz Ciafrino
+        Pedro Fonini
+        Eduardo Frimer
+        Pedro Machado
+
+This is the String Statistics project for the Algorithms and Data Structures
+class. Instructions follow on how to build an executable file for your
+platform.
+
+==== UNIX ====
+
+To compile, type:
+
+    source build_unix.sh
+
+You will need the Qt4 libraries and header files and qmake. For the header
+files, please install the qt-devel package for your distribution.
+
+To run, type:
+
+    ./strstats
+
+==== Windows ====
+
+????

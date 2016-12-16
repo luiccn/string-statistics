@@ -1,0 +1,13 @@
+ASCII (acrônimo para American Standard Code for Information Interchange, que
+em português significa "Código Padrão Americano para o Intercâmbio de
+Informação") é uma codificação de caracteres de oito bits baseada no alfabeto
+inglês. Os códigos ASCII representam texto em computadores, equipamentos de
+comunicação, entre outros dispositivos que trabalham com texto. Desenvolvida a
+partir de 1960, grande parte das codificações de caracteres modernas a
+herdaram como base.
+
+A codificação define 256 caracteres, preenchendo completamente os oito bits
+disponíveis. Desses, 33 não são imprimíveis, como caracteres de controle
+atualmente não utilizáveis para edição de texto, porém amplamente utilizados
+em dispositivos de comunicação, que afetam o processamento do texto. Exceto
+pelo caractere de espaço, o restante é composto por caracteres imprimíveis.
